@@ -1,6 +1,5 @@
 'use client';
 
-import React from "react";
 import { mochiyPopOne, montserrat } from "@/app/fonts";
 import Link from "next/link";
 import AuthDialog from "./auth/authDialog";

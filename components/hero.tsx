@@ -1,9 +1,7 @@
 'use client'
 
-import React from "react";
 import { mochiyPopOne, montserrat } from "@/app/fonts";
 import { Funnel } from 'lucide-react';
-import Image from "next/image";
 
 export default function Hero() {
     return (
